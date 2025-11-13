@@ -45,4 +45,4 @@
  ### 📌 Projetos em destaque
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adryelsantoss&repo=conversor-de-moedas)](https://github.com/adryelsantoss/conversor-de-moedas)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adryelsantoss&repo=Primeiro-Projeto-CSS-Responsivo-1)](https://github.com/adryelsantoss/Primeiro-Projeto-CSS-Responsivo-1)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adryelsantoss&repo=projectwide-landing-page)](https://github.com/adryelsantoss/projectwide-landing-page)
