@@ -39,10 +39,13 @@
 [![Adryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adryelsantoss&theme=default&show_icons=true&hide=contribs&rank_icon=github&custom_title=Adryel's%20GitHub%20Stats&cache_seconds)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryelsantoss&layout=compact)
- 
+
  ---
  
  ### 📌 Projetos em destaque
 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adryelsantoss&repo=weather-previsao-do-tempo)](https://github.com/adryelsantoss/weather-previsao-tempo)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adryelsantoss&repo=conversor-de-moedas)](https://github.com/adryelsantoss/conversor-de-moedas)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adryelsantoss&repo=starbucks)](https://github.com/adryelsantoss/starbucks-landing-page)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adryelsantoss&repo=sorteador-online)](https://github.com/adryelsantoss/sorteador)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adryelsantoss&repo=projectwide-landing-page)](https://github.com/adryelsantoss/projectwide-landing-page)
