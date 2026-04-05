@@ -36,9 +36,9 @@
  
  ### 📊 GitHub Stats
  
-[![Adryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adryelsantoss&theme=default&show_icons=true&hide=contribs&rank_icon=github&custom_title=Adryel's%20GitHub%20Stats&cache_seconds)](https://github.com/anuraghazra/github-readme-stats)
+[![Adryel's GitHub stats](https://github-stats-extended.vercel.app/api?username=adryelsantoss&theme=default&show_icons=true&hide=contribs&rank_icon=github&custom_title=Adryel's%20GitHub%20Stats&cache_seconds)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryelsantoss&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=adryelsantoss&layout=compact)
 
  ---
  
