@@ -5,14 +5,15 @@
  👨‍💻 Desenvolvedor Front-End em formação, aluno DevClub <img align="center" width="50" src="https://yt3.googleusercontent.com/mc1MPwCGHyMq-ck-2mRB020qAWCtvZNId8tCGsPM9SkFdSCkHYLh5f0G-n04nGhdvXUd7Hj-iw=s900-c-k-c0x00ffffff-no-rj"/>
  
  Atualmente aprendendo e criando projetos com:
- 
+
+ - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
  - ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  
  🚀 Iniciando minha jornada com **React**  
  🎯 Em busca de evolução constante  
- ☕ Sonhando em ser um Dev FullStack que toma café e resolve bugs antes do almoço 😄  
+ ☕ Buscando em ser um Dev FullStack que toma café e resolve bugs antes do almoço 😄  
  ⚡ Fun fact: Quando não estou codando, estou tocando guitarra !! 🎸
  
  ---
