@@ -36,10 +36,16 @@
  ---
  
  ### 📊 GitHub Stats
- 
-[![Adryel's GitHub stats](https://github-stats-extended.vercel.app/api?username=adryelsantoss&theme=default&show_icons=true&hide=contribs&rank_icon=github&custom_title=Adryel's%20GitHub%20Stats&cache_seconds)](https://github.com/anuraghazra/github-readme-stats)
+ <div align="center">
+  
+[![Adryel's GitHub stats](https://github-stats-extended.vercel.app/api?username=adryelsantoss&theme=tokyonight&show_icons=true&hide=contribs&rank_icon=github&custom_title=Adryel's%20GitHub%20Stats&cache_seconds)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=adryelsantoss&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+</div>
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=adryelsantoss&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+<div align="center">
+ 
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adryelsantoss&theme=tokyonight&hide_border=true&ring=7C83FD&fire=22c55e&currStreakLabel=7C83FD)
+</div>
 
  ---
  
